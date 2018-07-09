@@ -1,0 +1,66 @@
+*{
+box-sizing: border-box;
+margin:0;
+padding:0;
+}
+
+body{
+
+}
+#top{
+  background-color: orange;
+  display: flex;
+  border-style: solid;
+  border-color: orange;
+  flex: 100%;
+width: 100%;
+  height: 40px;
+display: flex;
+flex-direction: row;
+position: absolute;
+
+}
+#logo{
+background-color: orange;
+width: 40px;
+height: 100%;
+margin-left: 5px;
+}
+#WhatSoup{
+font-size: 17px;
+}
+p{
+color:white;
+padding-top: 5px;}
+.text{
+white-space: nowrap;
+font-size: 12px;
+margin: 4px 35px 0 0;
+}
+form{
+display: flex;
+align-items: top;
+flex-direction: row;
+padding-left: 55%
+}
+#loking{
+width: 20px;
+height: 20px;
+align-self: center;
+margin: 0 0 0 15px;
+}
+input{
+align-self: center;
+border-radius: 5px;
+background-color: white;
+width: 100px;
+height: 80%;
+}
+#point{
+margin: 0 0 0 180px;
+}
+.lic{
+  align-self: center;
+width: 20px;
+height: 20px;
+}
